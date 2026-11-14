@@ -1,5 +1,5 @@
 -- File: Example.lua
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/Main.gui"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/AcelestuZ/GUI-Project-1/main/Main.lua"))()
 
 local Window = Library:CreateWindow({
 	Title = "MY UNIVERSAL HUB",
