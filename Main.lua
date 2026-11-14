@@ -1,5 +1,4 @@
 -- File: Main.gui
--- Universal Compact Neon UI Library (AcelestuZ Style)
 
 local Library = {}
 Library.__index = Library
